@@ -112,3 +112,6 @@ venv.bak/
 corpora
 data
 
+keras
+list
+nmt
