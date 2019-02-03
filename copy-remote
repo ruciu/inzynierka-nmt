@@ -1,0 +1,1 @@
+scp -i ~/klucze/EU-WEST.pem ubuntu@ec2-18-202-228-162.eu-west-1.compute.amazonaws.com:/home/ubuntu/inzynierka/src/s2s-word-embedding.h5 .

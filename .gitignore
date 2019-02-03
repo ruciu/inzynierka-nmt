@@ -115,3 +115,6 @@ data
 keras
 list
 nmt
+
+models
+*.h5
